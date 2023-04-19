@@ -73,8 +73,8 @@ The lr_forecasts table contains the sales forecasts for each store for the next 
 # Usage
 To run the sales_forecasting.py script, you'll need to have the following software installed:
 
-Python 3.x
-PostgreSQL
+1. Python 3.x
+2. PostgreSQL
 
 # Acknowledgements:
 
