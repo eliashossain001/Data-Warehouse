@@ -52,7 +52,7 @@ The OLAP_Analytics file contains functions to perform various types of data anal
 * Sales by Store: a bar chart that shows the breakdown of sales by store over a specified range of time.
 
 
-# Salea Forecasting
+# Sales Forecasting
 The sales_forecasting notebook contains the predictive modeling for this project. It uses the pandas, numpy, matplotlib, statsmodels, and sklearn libraries.
 
 # ARIMA Model
