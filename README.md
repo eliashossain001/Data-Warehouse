@@ -78,7 +78,7 @@ To run the sales_forecasting.py script, you'll need to have the following softwa
 
 # Acknowledgements:
 
-I would like to express my sincere gratitude to Dr. Abu Sayed Md. Latiful Hoque, the course instructor of CSE512 at North South University, for assigning this project and providing valuable guidance throughout the project. I am also thankful to the eSystems Research and Development Lab, Dept. of CSE, BUET, led by Dr. Abu Sayed Md. Latiful Hoque for their innovative and impactful research contributions in the field of Health and Education.
+I would like to express my sincere gratitude to Dr. Abu Sayed Md. Latiful Hoque, the course instructor of CSE512 at North South University, for assigning this project and providing valuable guidance throughout the project. I am also thankful to the eSystems Research and Development Lab, Dept. of CSE, Bangladesh University of Engineering & Technology (BUET), led by Dr. Abu Sayed Md. Latiful Hoque for their innovative and impactful research contributions in the field of Health and Education.
 
 I would also like to extend my appreciation to Md Jahedul Islam, a research assistant in the lab, for providing me with project setup guidance and continuous support throughout the project.
 
