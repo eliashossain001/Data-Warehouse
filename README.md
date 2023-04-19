@@ -14,7 +14,7 @@ To run this notebook, make sure you have Python 3 installed on your system along
 
 ```
 pip install numpy pandas scikit-learn matplotlib
-``
+```
 Once the required packages are installed, you can open the notebook in Jupyter Notebook or JupyterLab and run each cell in sequence to execute the code and see the results. You can clone this repository by following the command:
 
 ```
