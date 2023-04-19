@@ -1,7 +1,7 @@
 # E-commerce Data Analysis
-Author: Elias Hossain (Graduate Student)
-Department: Electrical & Computer Engineering
-University: North South University
+Author: Elias Hossain (Graduate Student) <br>
+Department: Electrical & Computer Engineering (ECE) <br>
+University: North South University <br>
 
 # Purpose of the Notebook
 This project is focused on performing data analysis on an e-commerce dataset using Python and PostgreSQL. The dataset includes information about transactions, customers, items, time, and stores. 
