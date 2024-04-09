@@ -1,6 +1,6 @@
 # E-commerce Data Analysis
 Author: Elias Hossain (Graduate Student) <br>
-Department: Electrical & Computer Engineering (ECE) <br>
+Department of Electrical & Computer Engineering (ECE) <br>
 North South University, Dhaka <br>
 
 # Purpose of the Notebook
